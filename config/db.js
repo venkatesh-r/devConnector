@@ -8,6 +8,8 @@ const dbConnection = async () => {
     console.log("monogo DB connected");
   } catch (err) {
     console.log(err.message);
+    //exit from failure
+    process.exit(1);
   }
 };
 
