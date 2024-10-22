@@ -7,7 +7,7 @@
     "start": "node server",
     "server": "nodemon server "
   },
-  "author": "",
+  "author": "Venkatesh",
   "license": "ISC",
   "description": "",
   "dependencies": {
